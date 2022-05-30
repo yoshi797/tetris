@@ -1,6 +1,10 @@
 # プログラムの説明
 学校の授業でncursesライブラリを知り、それを用いて作成したテトリスである。
 
+# 画面イメージ
+<img src="https://user-images.githubusercontent.com/106236337/171018099-f9aa2a16-219e-4bd5-9e2b-a4a711091a5f.png" width="400px">
+<img src="https://user-images.githubusercontent.com/106236337/171018206-1e12b581-343d-4f7a-b267-b901be3ffcff.png" width="400px">
+
 # 必要なライブラリ
 ncursesをインストールする必要がある。
 
